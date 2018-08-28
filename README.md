@@ -2,7 +2,7 @@
 Sample App for react-native 
 
 
-<img >
+<img src="https://github.com/hankkuu/React-Native-Ex-Navigation/tree/master/doc/react-navigation-sample.gif?raw=true" />
 
 > Specification
 * expo
@@ -15,9 +15,9 @@ Sample App for react-native
 3. Learn how to make a structure of react native app with react navigation
 ```
 
-# INSTALL
+# Install
 ```
-1. run expo xde
+1. install expo xde
 2. npm install
 ```
 
