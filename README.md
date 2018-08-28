@@ -47,8 +47,8 @@ Expo XDE to starting project
 # Expo 
 29.0.0
 
-## React version
+# React version
 16.3.1
 
-## React navigation
+# React navigation
 2.11.2
