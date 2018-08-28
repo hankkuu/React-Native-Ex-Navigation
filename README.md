@@ -2,7 +2,7 @@
 Sample App for react-native 
 
 
-<img src="https://github.com/hankkuu/React-Native-Ex-Navigation/tree/master/doc/react-navigation-sample.gif?raw=true" />
+<img src="https://github.com/hankkuu/React-Native-Ex-Navigation/blob/master/doc/react-navigation-sample.gif?raw=true" />
 
 > Specification
 * expo
